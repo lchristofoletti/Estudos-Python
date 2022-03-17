@@ -1,11 +1,14 @@
 # Esse programinha foi feito para treinar as habilidades de condicional
-# Desafio:## 1. Cálculo de Bônus
+# Desafio:#
+#  Cálculo de Bônus
 # Crie um programa que calcule e dê um print no bônus que os funcionários devem receber segundo a regra:
 # A meta é 1000 vendas.
 # Se o valor de vendas for maior ou igual a meta, o valor do bônus do funcionário é 10% do valor de vendas.
 # Caso contrário o valor de bônus do funcionário é 0.
 # Print o bônus dos 3 funcionários
 # Se o usuario não digitar nada, printar uma msg para que seja feito a inserção corretamente
+
+# Exercicio basico e de facil entendimento
 
 funcionario_1 = input("Quanto o Funcionario 1 vendeu? \n")
 funcionario_2 = input("Quanto o Funcionario 2 vendeu? \n")
